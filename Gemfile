@@ -16,6 +16,8 @@ gem 'jquery-rails'
 gem 'sass-rails'
 gem 'simple_form'
 gem 'uglifier'
+gem 'sprockets', '>= 3.0.0'
+gem 'sprockets-es6'
 
 group :development, :test do
   gem 'pry-byebug'
