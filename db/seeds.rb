@@ -18,18 +18,3 @@ nico = User.create!(
 
 chat_room = ChatRoom.create!(name: "general")
 
-# message_1 = Message.create!(
-#   content: "Hello",
-#   chat_room: chat_room,
-#   user: ed
-# )
-# message_2 = Message.create!(
-#   content: "Hey",
-#   chat_room: chat_room,
-#   user: seb
-# )
-# message_3 = Message.create!(
-#   content: "Yo",
-#   chat_room: chat_room,
-#   user: boris
-# )
